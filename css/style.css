@@ -172,12 +172,12 @@ a:hover, a:active, a:focus {
     background-color: transparent;
 }
 
-.navbar-default .navbar-toggle {
+.navbar-default{
      border: none;
      padding-top: 10px;
   }
 
-.navbar-default .navbar-toggle .icon-bar {
+.navbar-default .icon-bar {
     background: #bfba55;
     border-color: transparent;
   }
